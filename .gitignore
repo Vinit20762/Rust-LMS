@@ -1,1 +1,3 @@
 generate_report.py
+*.md
+.claude/
