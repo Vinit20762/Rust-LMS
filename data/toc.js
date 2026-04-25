@@ -51,12 +51,12 @@ const TOC = [
       { id: 'ch18', num: 18, title: 'Stack vs Heap',                         available: true  },
       { id: 'ch19', num: 19, title: 'Move Semantics',                        available: true  },
       { id: 'ch20', num: 20, title: 'Ownership Rules',                       available: true  },
-      { id: 'ch21', num: 21, title: 'References',                            available: false },
-      { id: 'ch22', num: 22, title: 'Mutable vs Immutable Borrow',           available: false },
-      { id: 'ch23', num: 23, title: 'Dangling References',                   available: false },
-      { id: 'ch24', num: 24, title: 'Slices',                                available: false },
-      { id: 'ch25', num: 25, title: 'Borrow Checker Errors',                 available: false },
-      { id: 'ch26', num: 26, title: 'Interior Mutability (Cell, RefCell)',   available: false },
+      { id: 'ch21', num: 21, title: 'References',                            available: true  },
+      { id: 'ch22', num: 22, title: 'Mutable vs Immutable Borrow',           available: true  },
+      { id: 'ch23', num: 23, title: 'Dangling References',                   available: true  },
+      { id: 'ch24', num: 24, title: 'Slices',                                available: true  },
+      { id: 'ch25', num: 25, title: 'Borrow Checker Errors',                 available: true  },
+      { id: 'ch26', num: 26, title: 'Interior Mutability (Cell, RefCell)',   available: true  },
     ]
   },
   {
