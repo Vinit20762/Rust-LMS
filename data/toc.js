@@ -62,10 +62,10 @@ const TOC = [
   {
     id: 5,
     title: 'Lifetimes & Memory Safety',
-    available: false,
+    available: true,
     chapters: [
-      { id: 'ch27', num: 27, title: 'Lifetime Annotations',                  available: false },
-      { id: 'ch28', num: 28, title: 'Lifetime Elision Rules',                available: false },
+      { id: 'ch27', num: 27, title: 'Lifetime Annotations',                  available: true  },
+      { id: 'ch28', num: 28, title: 'Lifetime Elision Rules',                available: true  },
       { id: 'ch29', num: 29, title: 'Lifetimes in Structs',                  available: false },
       { id: 'ch30', num: 30, title: "The 'static Lifetime",                  available: false },
       { id: 'ch31', num: 31, title: 'Designing Lifetime-Safe APIs',          available: false },
